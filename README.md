@@ -1,7 +1,3 @@
-Of course! Here's a **professional and clean README.md** you can use for your GitHub project **"Emotion Detection Based on Text Data"**:
-
----
-
 # Emotion Detection Based on Text Data
 
 Welcome to the **Emotion Detection Based on Text Data** project!  
